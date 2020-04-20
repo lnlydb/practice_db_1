@@ -8,6 +8,7 @@ class Practice1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		new Practice1Application();
 	}
 
 }
